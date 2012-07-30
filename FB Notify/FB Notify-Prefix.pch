@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'FB Notify' target in the 'FB Notify' project
+//
+
+#ifdef __OBJC__
+  #import <Cocoa/Cocoa.h>
+#endif
