@@ -130,7 +130,7 @@
 
 - (void) checkNotifications:(id)sender
 {
-  [self.fb sendRequest:@"me/notifications" params:@{@"include_read":@"1"} usePostRequest:NO];
+  [self.fb sendRequest:@"me/notifications" params:@{/*@"include_read":@"1"*/} usePostRequest:NO];
 }
 
 - (void) setNameInMenu:(NSString*)userName
