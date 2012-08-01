@@ -2,6 +2,10 @@
 
 Facebook notifications for Mountain Lion notification center.
 
+# Download
+
+A compiled version is available [here](https://github.com/downloads/afriggeri/facebook-notifications/Facebook%20Notifications.dmg)
+
 # Artwork
 
 The icon `FacebookIcon.icns` was extracted from the `Facebook.socialplugin` provided by Apple. The icons `fb_connected.png` and `fb_offline.png` come from the [`fb-notify`](https://github.com/leebyron/fb-notify) desktop application.
